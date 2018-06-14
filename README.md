@@ -32,10 +32,11 @@ As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code
 and the suspension of your account.
 
-Me, the author of the project, allow you to check the code as a reference, but if
+Me, the author of the project, allows you to check the code as a reference, but if
 you submit it, it's your own responsibility if you get expelled.
 
 Copyright (c) 2018 David King
+swdave.com
 
 Besides the above notice, the following license applies and this license notice
 must be included in all works derived from this project.
@@ -59,4 +60,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
