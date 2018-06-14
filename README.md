@@ -7,7 +7,7 @@ Syllabus](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1f0
 
 ## Android Knowledge
 
-- Json calls using Volley
+- JSON calls using Volley
 - Prefrences
 - Recycler View
 - Custom Adapters
