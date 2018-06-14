@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PopularMoviesApp</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="no_connection_icon">No Connection Icon</string>
+    <string name="network_error">Cannot connect to Internet. Please check your connection!</string>
+    <string name="server_error">The server could not be found. Please try again after some time!!</string>
+    <string name="auth_failure">Cannot connect to Internet. Please check your connection!</string>
+    <string name="parse_error">Parsing error! Please try again after some time!!</string>
+    <string name="no_connection">Cannot connect to Internet. Please check your connection!</string>
+    <string name="time_out">Connection TimeOut! Please check your internet connection.</string>
+    <string name="no_api_key">Please enter your Api Key in the TODO section to use this app.</string>
+
+
+    <string name="movie_settings">Movie Settings</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_popular_value</string>
+
+    <!-- Label for order-by most popular option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_popular_label">Most Popular</string>
+    <string name="settings_order_by_most_popular_value" translatable="false">popular</string>
+
+    <!-- Label for order-by highest rated option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_top_rated_label">Top Rated</string>
+    <string name="settings_order_by_top_rated_value" translatable="false">top_rated</string>
+    <string name="movie_poster">movie_poster</string>
+    <string name="release_date">Release Date:</string>
+    <string name="rating">Rating</string>
+    <string name="retry">Retry</string>
+
+
+</resources>
