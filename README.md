@@ -16,6 +16,9 @@
 # Description
 - Build a simple movies app that communicates with the Internet and provides a responsive user experience.
 
+# Requirements
+- App requires an API KEY from https://www.themoviedb.org.
+
 # Screenshot
 <img src="http://swdave.com/wp-content/uploads/2018/06/Screenshot_1529001851.jpg" height="400"/>&nbsp;&nbsp;&nbsp;
 <img src="http://swdave.com/wp-content/uploads/2018/06/Screenshot_1529001860.jpg" height="400"/>&nbsp;&nbsp;&nbsp;
