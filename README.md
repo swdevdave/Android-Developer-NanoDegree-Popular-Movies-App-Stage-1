@@ -1,22 +1,16 @@
 # Popular Movies App - Android 
 
-- Project **Popular Movies App Stage 1 of 2** of Android Developer Nanodegree
+- Project **Popular Movies App Stage 2 of 2** of Android Developer Nanodegree
 - [Android Devoper Nano Degree at Udacity.com](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
 - [Android Developer Nanodegree
 Syllabus](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1f00c0_and-syllabus-terms/and-syllabus-terms.pdf)
 
 ## Android Knowledge
 
-- JSON calls using Volley
-- Prefrences
-- Recycler View
-- Custom Adapters
-- Intents
-- Glide
-- Android permissions
+Filled in later
 
 # Description
-- Build a simple movies app that communicates with the Internet and provides a responsive user experience.
+- Filled in later
 
 # Requirements
 - App requires an API KEY from https://www.themoviedb.org.
