@@ -1,6 +1,6 @@
 # Popular Movies App - Android 
 
-- Project **Popular Movies App Stage 2 of 2** of Android Developer Nanodegree
+- Project **Popular Movies App Stage 1 of 2** of Android Developer Nanodegree
 - [Android Devoper Nano Degree at Udacity.com](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
 - [Android Developer Nanodegree
 Syllabus](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1f00c0_and-syllabus-terms/and-syllabus-terms.pdf)
