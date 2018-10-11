@@ -2,15 +2,33 @@
 
 - Project **Popular Movies App Stage 1 of 2** of Android Developer Nanodegree
 - [Android Devoper Nano Degree at Udacity.com](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
-- [Android Developer Nanodegree
-Syllabus](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1f00c0_and-syllabus-terms/and-syllabus-terms.pdf)
+- [Popular Movies App Implementation Guide](https://docs.google.com/document/d/1ZlN1fUsCSKuInLECcJkslIqvpKlP7jWL2TP9m6UiA6I/pub?embedded=true#h.3omxhyonl2o1)
 
 ## Android Knowledge
-
-Filled in later
+- Glide library
+- Volley (Parse Json from http://api.themoviedb.org)
+- RecyclerView
+- Saved State
 
 # Description
-- Filled in later
+Stage 1:  Main Discovery Screen, A Details View, and Settings
+
+## User Experience
+In this stage you’ll build the core experience of your movies app.
+
+
+Your app will:
+
+- Upon launch, present the user with an grid arrangement of movie posters.  
+- Allow your user to change sort order via a setting:  
+  - The sort order can be by most popular, or by top rated  
+
+- Allow the user to tap on a movie poster and transition to a details screen with additional information such as:
+  - original title
+  - movie poster image thumbnail
+  - A plot synopsis (called overview in the api)
+  - user rating (called vote_average in the api)
+  - release date
 
 # Requirements
 - App requires an API KEY from https://www.themoviedb.org.
